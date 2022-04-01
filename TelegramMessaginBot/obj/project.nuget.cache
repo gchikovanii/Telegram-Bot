@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "txwfJRAGKSA6Qfdk+uvfWIE2NpoMTwEagcK8PmjXSn/rOS+e7VrZ1faXprsGYCqgw0hIjDy0lCf+kDm6f+G0wA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\chiqo\\source\\repos\\Projects\\TelegramMessaginBot\\TelegramMessaginBot\\TelegramMessaginBot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chiqo\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\chiqo\\.nuget\\packages\\system.threading.channels\\6.0.0\\system.threading.channels.6.0.0.nupkg.sha512",
+    "C:\\Users\\chiqo\\.nuget\\packages\\telegram.bot\\17.0.0\\telegram.bot.17.0.0.nupkg.sha512",
+    "C:\\Users\\chiqo\\.nuget\\packages\\telegram.bot.extensions.polling\\1.0.2\\telegram.bot.extensions.polling.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
